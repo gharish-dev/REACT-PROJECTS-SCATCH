@@ -1,4 +1,5 @@
 import React from 'react';
+import Form from './Form';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <h1 className='text-center'> 
         To DO APPLICATION 
       </h1>
+      <Form/>
     </div>
     
     
